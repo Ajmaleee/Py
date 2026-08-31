@@ -4,7 +4,7 @@ A small web app for learning Python logic through **algorithms**, **pseudocode**
 and **drag-and-drop flowcharts** — with an in-character AI tutor ("Py") that
 turns your logic into runnable Python and explains mistakes in plain words.
 
-## Why two deployments?
+## Why two  deployments?
 
 This is deliberately split into two pieces:
 
